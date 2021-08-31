@@ -4,15 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>ＨＥＹ  ʙɪᴛᴄʜ  {} How are You!!</b>
+    START_TEXT = """<b>ＨＥＹ മോനുസേ {} How are You!!</b>
    
-    
-    `Nothing Is Impossible The whole Things`
+    <code>Nothing Is Impossible The whole Things</code>
 
-**😇Creator : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)**
+<b>😇Creator : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
 
-**🦋Maded For : [𝗪𝗢𝗟𝗙 𝗣𝗔𝗖𝗞 𝗠𝗘𝗗𝗜𝗔](https://t.me/wolfpackmedia)**
-   
+🦋Maded For : [𝗪𝗢𝗟𝗙 𝗣𝗔𝗖𝗞 𝗠𝗘𝗗𝗜𝗔](https://t.me/wolfpackmedia)</b>
     
 
 """    
@@ -58,5 +56,5 @@ class Translation(object):
 
 <b>➥ My Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://telegra.ph/file/587de9bdd9486b806aeba.jpg">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://telegra.ph/file/587de9bdd9486b806aeba.jpg"> Don't Click Me</a></i>
 """
