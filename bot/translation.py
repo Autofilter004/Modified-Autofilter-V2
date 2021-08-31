@@ -8,9 +8,9 @@ class Translation(object):
    
     <code>Nothing Is Impossible The whole Things</code>
 
-<b>😇Creator : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)
+<b>😇Creator : <i><a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></i>
 
-🦋Maded For : [𝗪𝗢𝗟𝗙 𝗣𝗔𝗖𝗞 𝗠𝗘𝗗𝗜𝗔](https://t.me/wolfpackmedia)</b>
+🦋Maded For : <i><a href="https://t.me/wolfpackmedia"> 𝗪𝗢𝗟𝗙 𝗣𝗔𝗖𝗞 𝗠𝗘𝗗𝗜𝗔</a></i></b>
     
 
 """    
