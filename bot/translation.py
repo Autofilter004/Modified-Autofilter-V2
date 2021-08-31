@@ -5,24 +5,15 @@
 class Translation(object):
     
     START_TEXT = """<b>ＨＥＹ  ʙɪᴛᴄʜ  {} How are You!!</b>
+   
     
-     🤠 𝗜  𝗔𝗺 𝗔 𝗨𝗹𝘁𝗿𝗮 𝗙𝗶𝗹𝘁𝗲𝗿 𝗕𝗼𝘁...💣💣
-  
-  ❌️ 𝐘𝐨𝐮 𝐀𝐫𝐞 𝐀𝐝𝐝 𝐌𝐞 𝐆𝐫𝐨𝐮𝐩 𝐎𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ❌️
+    `Nothing Is Impossible The whole Things`
 
-      😈 𝐈 𝐖𝐢𝐥𝐥 𝐊𝐢𝐜𝐤 𝐀𝐥𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 😈
+**😇Creator : [𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥](https://t.me/mhd_thanzeer)**
 
-𝐌𝐘  𝐎𝐖𝐍𝐄𝐑 & 𝐁𝐎𝐒𝐒 𝐈𝐒
-
-       𝐎𝐍𝐄  𝐀𝐍𝐃  𝐎𝐍𝐋𝐘
-
-            @mhd_thanzeer
-
-﻿Ｙａａａ　Ｈｏｏｏｏｏ💥
-
-💣Ｉａｍ　　ａ　　Ｄｅｖｉｌ　Ｂｏｙ 
-
-
+**🦋Maded For : [𝗪𝗢𝗟𝗙 𝗣𝗔𝗖𝗞 𝗠𝗘𝗗𝗜𝗔](https://t.me/wolfpackmedia)**
+   
+    
 
 """    
     
