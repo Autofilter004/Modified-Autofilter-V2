@@ -57,7 +57,7 @@ Join on our channel to get movies ✅
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = caption,
+                caption = f"<code>{file_name}</code>\n\n<b>➤<a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -77,7 +77,7 @@ Join on our channel to get movies ✅
             await bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = caption,
+                caption = f"<code>{file_name}</code>\n\n<b>➤<a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -96,7 +96,7 @@ Join on our channel to get movies ✅
             await bot.send_audio(
                 chat_id=update.chat.id,
                 audio = file_id,
-                caption = caption,
+                caption = f"<code>{file_name}</code>\n\n<b>➤<a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
