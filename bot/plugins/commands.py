@@ -130,7 +130,7 @@ Join on our channel to get movies ✅
 
         chat_id=update.chat.id,
 
-        photo="https://telegra.ph/file/057ec425d174e8129826e.jpg",
+        photo="https://telegra.ph/file/6824a00f2babc136862cd.jpg",
 
         caption=Translation.START_TEXT.format(
 
