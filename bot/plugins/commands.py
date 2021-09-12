@@ -57,7 +57,7 @@ Join on our channel to get movies ✅
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = f"<code>{file_name}</code>\n\n<b>➤@mhd_thanzeer</b>",
+                caption = f"<code>{file_name}</code>\n\n<b>➪ @mhd_thanzeer</b>",
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -77,7 +77,7 @@ Join on our channel to get movies ✅
             await bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = f"<code>{file_name}</code>\n\n<b>➤@mhd_thanzeer</b>",
+                caption = f"<code>{file_name}</code>\n\n<b>➪ @mhd_thanzeer</b>",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -96,7 +96,7 @@ Join on our channel to get movies ✅
             await bot.send_audio(
                 chat_id=update.chat.id,
                 audio = file_id,
-                caption = f"<code>{file_name}</code>\n\n<b>➤@mhd_thanzeer</b>",
+                caption = f"<code>{file_name}</code>\n\n<b>➪ @mhd_thanzeer</b>",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -116,7 +116,7 @@ Join on our channel to get movies ✅
         return
 
     buttons = [[
-        InlineKeyboardButton('👨‍🔬𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥👨‍🔬', url='https://t.me/mhd_thanzeer')
+        InlineKeyboardButton('💘 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗚𝗥𝗢𝗨𝗣 💘', url='https://t.me/wolfpackmedia')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -125,7 +125,7 @@ Join on our channel to get movies ✅
 
         chat_id=update.chat.id,
 
-        photo="https://telegra.ph/file/6824a00f2babc136862cd.jpg",
+        photo="https://telegra.ph/file/e42a430dbac1765e85e36.jpg",
 
         caption=Translation.START_TEXT.format(
 
