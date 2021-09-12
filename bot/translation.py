@@ -4,15 +4,10 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>ＨＥＹ മോനുസേ {} How are You!!</b>
-   
-    <code>Nothing Is Impossible The whole Things</code>
-
+    START_TEXT = """𝑺𝒐𝒓𝒓𝒚 𝑩𝒖𝒅𝒅𝒚 𝑰 𝑨𝒎 𝑾𝒐𝒓𝒌 𝑶𝒏𝒍𝒚 𝑴𝒚 𝑩𝒐𝒔𝒔\n
+ 𝑫𝒐 𝑵𝒐𝒕 𝑭𝒐𝒐𝒍𝒅 𝑴𝒆 𝑰 𝑫𝒐𝒏'𝒕 𝑳𝒊𝒌𝒆 𝑭𝒐𝒐𝒍𝒅𝒊𝒏𝒈\n
+ 𝑫𝒐 𝑵𝒐𝒕 𝑾𝒂𝒔𝒕𝒆 𝑻𝒊𝒎𝒆 𝑮𝒐 𝑨𝒉𝒆𝒂𝒅 𝑩𝑰𝑻𝑪𝑯\n\n
 <b>😇Creator : <a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a>
-
-🦋Maded For : <a href="https://t.me/wolfpackmedia"> 𝗪𝗢𝗟𝗙 𝗣𝗔𝗖𝗞 𝗠𝗘𝗗𝗜𝗔</a></b>
-    
-
 """    
     
     HELP_TEXT = """
@@ -48,9 +43,9 @@ class Translation(object):
             
 """
     
-    ABOUT_TEXT = """<b>➥ My Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ My Name</b> : <code> Mʜᴅ's || Assɪsᴛᴀɴᴛ</code>
     
-<b>➥ My Creator</b> : <b><i><a href="https://t.me/mhd_thanzeer">MHD THANZEER</a></i></b>
+<b>➥ My Creator</b> : <b><i><a href="https://t.me/mhd_thanzeer">𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></i></b>
 
 <b>➥ My Language</b> : <code>Python3</code>
 
