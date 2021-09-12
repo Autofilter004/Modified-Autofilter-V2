@@ -6,8 +6,8 @@ class Translation(object):
     
     START_TEXT = """𝑺𝒐𝒓𝒓𝒚 𝑩𝒖𝒅𝒅𝒚 𝑰 𝑨𝒎 𝑾𝒐𝒓𝒌 𝑶𝒏𝒍𝒚 𝑴𝒚 𝑩𝒐𝒔𝒔\n
  𝑫𝒐 𝑵𝒐𝒕 𝑭𝒐𝒐𝒍𝒅 𝑴𝒆 𝑰 𝑫𝒐𝒏'𝒕 𝑳𝒊𝒌𝒆 𝑭𝒐𝒐𝒍𝒅𝒊𝒏𝒈\n
- 𝑫𝒐 𝑵𝒐𝒕 𝑾𝒂𝒔𝒕𝒆 𝑻𝒊𝒎𝒆 𝑮𝒐 𝑨𝒉𝒆𝒂𝒅 𝑩𝑰𝑻𝑪𝑯\n\n
-<b>😇Creator : <a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a>
+ 𝑫𝒐 𝑵𝒐𝒕 𝑾𝒂𝒔𝒕𝒆 𝑻𝒊𝒎𝒆 𝑮𝒐 𝑨𝒉𝒆𝒂𝒅 𝑩𝑰𝑻𝑪𝑯\n
+<b>➪ Developer : <a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a>
 """    
     
     HELP_TEXT = """
