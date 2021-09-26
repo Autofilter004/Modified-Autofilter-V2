@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Sorry Dude..!!!\n\nI ᴀᴍ Wᴏʀᴋ Fᴏʀ Mʏ Oᴡɴᴇʀ\nDᴏ Nᴏᴛ Wᴀsᴛᴇ Tɪᴍᴇ Gᴏ Aʜᴇᴀᴅ 𝐁𝐈𝐓𝐂𝐇\</b>\n\n
+    START_TEXT = """<b>Sorry Dude..!!!\n\nI ᴀᴍ Wᴏʀᴋ Fᴏʀ Mʏ Oᴡɴᴇʀ\nDᴏ Nᴏᴛ Wᴀsᴛᴇ Tɪᴍᴇ Gᴏ Aʜᴇᴀᴅ 𝐁𝐈𝐓𝐂𝐇</b>\n
 <b>➪ Developer : <a href="https://t.me/mhd_thanzeer"> 𝗠𝗛𝗗_𝗧𝗛𝗔𝗡𝗭𝗘𝗘𝗥</a></b>
 """    
     
