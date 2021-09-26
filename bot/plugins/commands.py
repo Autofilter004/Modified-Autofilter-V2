@@ -143,20 +143,6 @@ Join on our channel to get movies ✅
 
 async def help(bot, update):
 
-    buttons = [[
-
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
-
-        InlineKeyboardButton('About 🚩', callback_data='about')
-
-    ],[
-
-        InlineKeyboardButton('Close 🔐', callback_data='close')
-
-    ]]
-
-    reply_markup = InlineKeyboardMarkup(buttons)
-
     await bot.send_message(
 
         chat_id=update.chat.id,
@@ -170,13 +156,15 @@ async def help(bot, update):
         reply_to_message_id=update.message_id
 
     )
+   
 
-@Client.on_message(filters.command(["about"]) & filters.private, group=1)
+    
 
-async def about(bot, update):
 
-    😁
+
+
+   
     
         
 
-    )
+
