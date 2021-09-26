@@ -74,7 +74,7 @@ async def auto_filter(bot, update):
             # from B to MiB
             
             if file_size < 1024:
-                file_size = f"{file_size} 𝗕"
+                file_size = f"➪ {file_size} 𝗕"
             elif file_size < (1024**2):
                 file_size = f"{str(round(file_size/1024, 2))} 𝗞𝗕 "
             elif file_size < (1024**3):
@@ -129,7 +129,7 @@ async def auto_filter(bot, update):
 
                     InlineKeyboardButton(button_text, url=file_link),
 
-                    InlineKeyboardButton(➪ file_size, url=file_link),
+                    InlineKeyboardButton(file_size, url=file_link),
 
                 ]
 
