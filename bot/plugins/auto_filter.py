@@ -62,7 +62,7 @@ async def auto_filter(bot, update):
     if filters:
         results.append(
                 [
-                    InlineKeyboardButton("⬇️𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬⬇️", url="https://t.me/wolfpackmedia")
+                    InlineKeyboardButton("🔥 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿 𝘼𝙉𝘿 𝙀𝙉𝙅𝙊𝙔 🔥 ", url="https://t.me/wolfpackmedia")
                 ]
             )
         for filter in filters: # iterating through each files
@@ -214,7 +214,7 @@ async def auto_filter(bot, update):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"𝐇𝐄𝐘 𝐁𝐮𝐝𝐝𝐲⚡️{update.from_user.mention} \n\n😇𝘾𝙡𝙞𝙘𝙠 𝙔𝙤𝙪𝙧 𝙁𝙞𝙡𝙚 📁 𝙎𝙏𝘼𝙍𝙏  𝙏𝙝𝙚 𝘽𝙤𝙩🤙\n\n👏𝐑𝐞𝐬𝐮𝐥𝐭𝐬 𝐅𝐨𝐮𝐧𝐝:- {(len_results)}\n\n🎬𝐌𝐨𝐯𝐢𝐞 𝐍𝐚𝐦𝐞:- <code>{query}</code>",
+                text=f"𝐇𝐄𝐘 𝐁𝐮𝐝𝐝𝐲⚡️{update.from_user.mention} \n\n😇 𝘾𝙡𝙞𝙘𝙠 𝙔𝙤𝙪𝙧 𝙁𝙞𝙡𝙚 📁 𝙎𝙏𝘼𝙍𝙏  𝙏𝙝𝙚 𝘽𝙤𝙩 💯\n\n🎁 𝐑𝐞𝐬𝐮𝐥𝐭𝐬 𝐅𝐨𝐮𝐧𝐝:- {(len_results)}\n\n🎬 𝐌𝐨𝐯𝐢𝐞 𝐍𝐚𝐦𝐞:- <code>{query}</code>",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id
