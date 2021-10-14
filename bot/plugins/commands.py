@@ -123,7 +123,7 @@ Join on our channel to get movies ✅
 
     reply_markup = InlineKeyboardMarkup(buttons)
 
-)
+
 
     await bot.send_photo(
 
