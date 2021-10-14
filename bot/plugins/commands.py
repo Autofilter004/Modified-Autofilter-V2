@@ -116,11 +116,9 @@ Join on our channel to get movies ✅
         return
 
     
-    await bot.send_photo(
+    await bot.(
 
         chat_id=update.chat.id,
-
-        photo="https://telegra.ph/file/e42a430dbac1765e85e36.jpg",
 
         caption=Translation.START_TEXT.format(
 
