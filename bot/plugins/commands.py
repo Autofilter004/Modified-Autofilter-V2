@@ -125,9 +125,7 @@ Join on our channel to get movies ✅
         caption=Translation.START_TEXT.format(
 
                 update.from_user.first_name),
-
-        reply_markup=reply_markup,
-
+       
         parse_mode="html",
 
         reply_to_message_id=update.message_id
