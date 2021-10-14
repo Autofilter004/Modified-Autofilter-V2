@@ -115,16 +115,7 @@ Join on our channel to get movies ✅
         
         return
 
-    buttons = [[
-
-        InlineKeyboardButton('💘 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗚𝗥𝗢𝗨𝗣 💘', url='https://t.me/wolfpackmedia')
-
-    ]]
-
-    reply_markup = InlineKeyboardMarkup(buttons)
-
-
-
+    
     await bot.send_photo(
 
         chat_id=update.chat.id,
