@@ -114,28 +114,5 @@ Join on our channel to get movies ✅
             print(file_type)
         
         return
-
-    buttons = [[
-        InlineKeyboardButton('💘 𝗪𝗢𝗥𝗞𝗜𝗡𝗚 𝗚𝗥𝗢𝗨𝗣 💘', url='https://t.me/wolfpackmedia')
-    ]]
+)
     
-    reply_markup = InlineKeyboardMarkup(buttons)
-    
-    await bot.send_photo(
-
-        chat_id=update.chat.id,
-
-        photo="https://telegra.ph/file/e42a430dbac1765e85e36.jpg",
-
-        caption=Translation.START_TEXT.format(
-
-                update.from_user.first_name),
-
-        reply_markup=reply_markup,
-
-        parse_mode="html",
-
-        reply_to_message_id=update.message_id
-
-    )
-
