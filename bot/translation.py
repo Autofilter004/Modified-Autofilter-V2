@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """
-🎯"""    
+😴"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
