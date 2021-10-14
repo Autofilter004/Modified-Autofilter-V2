@@ -116,7 +116,7 @@ Join on our channel to get movies ✅
         return
 
     
-    await bot.message(
+    await bot.send_message(
 
         chat_id=update.chat.id,
 
